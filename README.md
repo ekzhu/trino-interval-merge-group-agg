@@ -1,0 +1,1 @@
+# trino-interval-merge-group-agg
